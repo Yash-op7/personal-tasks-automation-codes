@@ -81,3 +81,60 @@
  - https://lnkd.in/dA3e79e7
 5. Coin Change
  - https://lnkd.in/d-ByK5Fx
+
+130. Surrounded Regions
+→ https://lnkd.in/gW3DFgpX
+
+133. Clone Graph
+→ https://lnkd.in/gnBT2bYF
+
+990. Satisfiability of Equality Equations
+→ https://lnkd.in/g8ru9u4G
+
+994. Rotting Oranges
+→ https://lnkd.in/gd66Q5Mb
+
+399. Evaluate Division
+→ https://lnkd.in/gRUD9WNJ
+
+997. Find the Town Judge
+→ https://lnkd.in/g93NWfK2
+
+1091. Shortest Path in Binary Matrix
+→ https://lnkd.in/gygvg_uN
+
+882. Reachable Nodes In Subdivided Graph
+→ https://lnkd.in/gyHhFgeT
+
+886. Possible Bipartition
+→ https://lnkd.in/gpNbnYbf
+
+1311. Get Watched Videos by Your Friends
+→ https://lnkd.in/gfjQsJbe
+
+542. 01 Matrix
+→ https://lnkd.in/gThqU3s3
+
+417. Pacific Atlantic Water Flow
+→ https://lnkd.in/gk5Cf-iE
+
+785. Is Graph Bipartite?
+→ https://lnkd.in/gHMridG7
+
+547. Number of Provinces
+→ https://lnkd.in/gygkn5BX
+
+1319. Number of Operations to Make Network Connected
+→ https://lnkd.in/gvdjmbVX
+
+1466. Reorder Routes to Make All Paths Lead to the City Zero
+→ https://lnkd.in/gqwnq6d9
+
+684. Redundant Connection
+→ https://lnkd.in/ggim8AQm
+
+797. All Paths From Source to Target
+→ https://lnkd.in/gXzf9AAD
+
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+→ https://lnkd.in/guMeNZCp
