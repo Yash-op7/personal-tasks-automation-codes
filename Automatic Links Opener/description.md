@@ -13,3 +13,6 @@ I found an article on LinkedIn about topic wise must do leetcode questions and I
 3. Run: python3 open_links.py
 
 # ❗️ Note
+- The webbrowser.open(url) command will open each URL in a new tab. Depending on your browser settings, opening too many tabs at once may slow down your browser or computer.
+- Be cautious about the number of links you are opening simultaneously. Consider adding a delay between openings if necessary, using time.sleep(seconds) from the time module.
+- Ensure your system's default browser settings are configured according to your preferences, like default browsre.
