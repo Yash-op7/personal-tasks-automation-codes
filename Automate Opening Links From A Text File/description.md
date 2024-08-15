@@ -4,5 +4,7 @@ If you have a large text files with a bunch of links and you to wish to open all
 # Why I made it
 I found an article on LinkedIn about topic wise must do leetcode questions and I wanted to go through each link and solve the ones that I haven't already but the article was huge and I didn't want to open problem link manually so I made this.
 
-# Prerequisites
-`​pip3 install webbrowser` run this
+# Steps to use
+1. Install dependencies:
+    - Ensure python and pip is installed
+    - Run this: `​pip3 install webbrowser`
