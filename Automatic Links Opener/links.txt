@@ -138,3 +138,27 @@
 
 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 → https://lnkd.in/guMeNZCp
+
+
+🚀Queues 🚀
+
+🔹 𝐄𝐚𝐬𝐲:
+📌 Implement Queue using Stacks: https://lnkd.in/gJmBhWga
+📌 Design Circular Queue: https://lnkd.in/g2_qU2jM
+📌 Number of Recent Calls: https://lnkd.in/gfr5kYFW
+📌 Moving Average from Data Stream: https://lnkd.in/gZuf5a8q
+📌 Implement Stack using Queues: https://lnkd.in/g9mFV385
+
+🔸 𝐌𝐞𝐝𝐢𝐮𝐦:
+📌 Design Snake Game: https://lnkd.in/g7v_CjGG
+📌 Sliding Window Maximum: https://lnkd.in/geD9SHPy
+📌 Perfect Squares: https://lnkd.in/gSn8uR2X
+📌 Design Circular Deque: https://lnkd.in/gX5jDmEx
+📌 Shortest Subarray with Sum at Least K: https://lnkd.in/g4-NBkar
+
+🔴 𝐇𝐚𝐫𝐝: 
+📌 Serialize and Deserialize Binary Tree: https://lnkd.in/ga42qEsF
+📌 LFU Cache: https://lnkd.in/g4cdhjrg
+📌 The Skyline Problem: https://lnkd.in/guBbWUX9
+📌 Trapping Rain Water II: https://lnkd.in/ghNbTbPR
+📌 Word Ladder II: https://lnkd.in/gNC4hfbn
