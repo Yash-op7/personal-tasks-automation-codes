@@ -16,7 +16,7 @@ def open_links_from_text(file_path):
         webbrowser.open(url)
 
 # Path to your text file with links
-text_file_path = 'links.txt'
+text_file_path = 'currently_doing.txt'
 
 # Call the function
 open_links_from_text(text_file_path)
