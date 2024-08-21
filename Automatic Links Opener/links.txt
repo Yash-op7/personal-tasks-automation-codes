@@ -166,3 +166,24 @@
 📌 Copy List with Random Pointer: https://lnkd.in/gBWcFRKe
 📌 LRU Cache: https://lnkd.in/gURyUMZK
 📌 Flatten a Multilevel Doubly Linked List: https://lnkd.in/gCtgKNwn
+
+Sharing the Most Frequently Encountered Questions on LinkedList below -
+📍 𝐄𝐚𝐬𝐲 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐋𝐢𝐬𝐭 :
+1) Insert a Node in LinkedList - https://lnkd.in/dR-2x-Jk
+2) Deleting a Node in LinkedList - https://lnkd.in/dvRNZSAf
+3) Find Length of a LinkedList - https://lnkd.in/dxnzuZSt
+4) Search an Element in a LinkedList - https://lnkd.in/dWXPBeDe
+
+📍 𝐌𝐞𝐝𝐢𝐮𝐦 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐋𝐢𝐬𝐭 :
+1) Middle element in LinkedList - https://lnkd.in/dFrRitPi
+2) Reverse a LinkedList - https://lnkd.in/dSCFz3YN
+3) Check if LinkedList is Palindrome - https://lnkd.in/dWrwKdGw
+4) Y Shaped LinkedList - https://lnkd.in/db_xm7JY
+5) Add 2 Numbers given as a LinkedList - https://lnkd.in/dWNSgxud
+6) Detect a Cycle in a LinkedList - https://lnkd.in/dPFcuW_F
+7) Find the Starting point of the Cycle - https://lnkd.in/dyY-bjrd
+
+📍𝐇𝐚𝐫𝐝 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐋𝐢𝐬𝐭 - 
+1) Flatten a LinkedList - https://lnkd.in/dN6uRdSk
+2) Reverse LinkedList in group of K - https://lnkd.in/dk79-c4V
+3) Clone a LinkedList with Random and Next pointer - https://lnkd.in/dVRv4Jng
