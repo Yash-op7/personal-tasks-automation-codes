@@ -82,26 +82,7 @@
 5. Coin Change
  - https://lnkd.in/d-ByK5Fx
 
-130. Surrounded Regions
-→ https://lnkd.in/gW3DFgpX
 
-133. Clone Graph
-→ https://lnkd.in/gnBT2bYF
-
-990. Satisfiability of Equality Equations
-→ https://lnkd.in/g8ru9u4G
-
-994. Rotting Oranges
-→ https://lnkd.in/gd66Q5Mb
-
-399. Evaluate Division
-→ https://lnkd.in/gRUD9WNJ
-
-997. Find the Town Judge
-→ https://lnkd.in/g93NWfK2
-
-1091. Shortest Path in Binary Matrix
-→ https://lnkd.in/gygvg_uN
 
 882. Reachable Nodes In Subdivided Graph
 → https://lnkd.in/gyHhFgeT
@@ -162,3 +143,26 @@
 📌 The Skyline Problem: https://lnkd.in/guBbWUX9
 📌 Trapping Rain Water II: https://lnkd.in/ghNbTbPR
 📌 Word Ladder II: https://lnkd.in/gNC4hfbn
+
+🚀Linked Lists 🚀
+
+🔹 Easy:
+📌 Reverse Linked List: https://lnkd.in/g7qP9-YU
+📌 Merge Two Sorted Lists: https://lnkd.in/gRfC6yyF
+📌 Remove Nth Node From End of List: https://lnkd.in/gGnGF75X
+📌 Delete Node in a Linked List: https://lnkd.in/gqzDgFpN
+📌 Palindrome Linked List: https://lnkd.in/gmEjY4gr
+
+🔸 Medium:
+📌 Add Two Numbers: https://lnkd.in/gvDxHySa
+📌 Swap Nodes in Pairs: https://lnkd.in/gnhqwidB
+📌 Odd Even Linked List: https://lnkd.in/gS2QpJAw
+📌 Intersection of Two Linked Lists: https://lnkd.in/gpwnpK8M
+📌 Rotate List: https://lnkd.in/gKg_3D34
+
+🔴 Hard:
+📌 Merge k Sorted Lists: https://lnkd.in/g7wK8H8v
+📌 Reverse Nodes in k-Group: https://lnkd.in/gUNaexhD
+📌 Copy List with Random Pointer: https://lnkd.in/gBWcFRKe
+📌 LRU Cache: https://lnkd.in/gURyUMZK
+📌 Flatten a Multilevel Doubly Linked List: https://lnkd.in/gCtgKNwn
