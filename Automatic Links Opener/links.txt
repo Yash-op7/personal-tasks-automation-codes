@@ -187,3 +187,27 @@ Sharing the Most Frequently Encountered Questions on LinkedList below -
 1) Flatten a LinkedList - https://lnkd.in/dN6uRdSk
 2) Reverse LinkedList in group of K - https://lnkd.in/dk79-c4V
 3) Clone a LinkedList with Random and Next pointer - https://lnkd.in/dVRv4Jng
+
+
+🌳Trees🌳
+
+🔹 𝗘𝗮𝘀𝘆:
+📌 Maximum Depth of Binary Tree: https://lnkd.in/gRiH2J9H
+📌 Same Tree: https://lnkd.in/g5ZaH-eW
+📌 Invert Binary Tree: https://lnkd.in/gTGBwedr
+📌 Binary Tree Paths: https://lnkd.in/gdxByxja
+📌 Symmetric Tree: https://lnkd.in/gB_dv4kW
+
+🔸 𝗠𝗲𝗱𝗶𝘂𝗺:
+📌 Binary Tree Level Order Traversal: https://lnkd.in/gwS_jFqH
+📌 Validate Binary Search Tree: https://lnkd.in/gKkWhZAp
+📌 Path Sum II: https://lnkd.in/gTtPVE7X
+📌 Construct Binary Tree from Preorder and Inorder Traversal: https://lnkd.in/gTUdYQDa
+📌 Populating Next Right Pointers in Each Node: https://lnkd.in/gNDPNwMP
+
+🔴 𝗛𝗮𝗿𝗱: 
+📌 Binary Tree Maximum Path Sum: https://lnkd.in/gTAAgCGG
+📌 Serialize and Deserialize Binary Tree: https://lnkd.in/ga42qEsF
+📌 Recover Binary Search Tree: https://lnkd.in/gwvRGfN9
+📌 Construct Binary Tree from Inorder and Postorder Traversal: https://lnkd.in/gE93-Gq5
+📌 Binary Tree Cameras: https://lnkd.in/gsjp4Yuj
