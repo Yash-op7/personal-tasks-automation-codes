@@ -1,0 +1,30 @@
+nterviewer: How would you optimize the performance of the web application ?
+
+1. Minimize HTTP requests by bundling and minifying assets (CSS, JS).
+ - https://lnkd.in/dcfVvsm7.
+
+2. Implement lazy loading for images and non-critical resources.
+ - https://lnkd.in/dKwX7ZEv
+
+3. Use caching techniques (browser caching, server-side caching) to reduce server load.
+ - https://lnkd.in/dzai8n_E
+
+4. Optimize database queries with proper indexing and efficient querying techniques.
+ - https://lnkd.in/dDsAh3TN
+ - https://lnkd.in/dj72R72i
+
+5. Compress and optimize images to reduce file size without losing quality.
+ 
+6. Implement pagination or infinite scrolling for large datasets.
+ - https://lnkd.in/dfe4ac3c.
+
+7. Use a Content Delivery Network (CDN) to serve static assets from geographically distributed servers.
+
+8. Minimize the use of blocking JavaScript and prioritize asynchronous operations.
+ - https://lnkd.in/d5ciJBYX
+
+9. Implement server-side rendering (SSR) for improved initial page load times.
+ - https://lnkd.in/db2MmEDx
+ - https://lnkd.in/ditJfpnU
+
+These are some strategies I'm considering to optimize the performance of a web application. 

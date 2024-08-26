@@ -18,3 +18,51 @@
 
 1091. Shortest Path in Binary Matrix
 → https://lnkd.in/gygvg_uN
+
+
+1. How Discord Modernized MFA with WebAuthn
+https://lnkd.in/gwhdHAwc
+
+2. Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server
+https://lnkd.in/gwi7KTjq
+
+3. Streaming SQL in Data Mesh at Netflix
+https://lnkd.in/gfwUy3pk
+
+4. Migrating Netflix to GraphQL Safely
+https://lnkd.in/gwnbUu26
+
+5. T For Tsunami : Dealing with traffic spikes at Hotstar
+https://lnkd.in/g-25MfGP
+
+6. Migrating Critical Traffic At Scale with No Downtime at Netflix
+https://lnkd.in/gwUkRdJX
+
+Also a great video to watch to clear your concepts on SQL/No-SQL databases:
+https://lnkd.in/g-yf4p_9
+
+ou are what you eat.
+
+10 brain foods to grow as an engineer:
+
+
+0. How We Survived 10k Requests a Second: https://lnkd.in/d_3Qcby8
+
+1. How to Scale an App to 100 Million Users (by Neo Kim): https://lnkd.in/dkKAzzmH
+
+2. Design Principles Every Developer Should Know (by Ashish Pratap Singh): https://lnkd.in/dTT9_nQ3
+
+3. Session Management Demystified: Cookies, Tokens, and Security (by Nikki Siapno): https://lnkd.in/dCJuXQby
+
+4. How to Communicate With Impact as a Software Engineer (by Jordan Cutler): https://lnkd.in/d363RsPA
+
+5. How to Become an Expert in Anything? (by Dr Milan Milanović): https://lnkd.in/d7kNtXxK
+
+6. When to pick SparkSQL vs DataFrame vs Dataset (by Zach Wilson): https://lnkd.in/dm-9UY52
+
+7. How Pinterest Replaced their Analytics Database: https://lnkd.in/dURU-UhP
+
+8. Why You Should Just Use PostgreSQL: https://lnkd.in/dCt5Uhbd
+
+9. Collision Detection Algorithms: https://lnkd.in/dc63CsZD
+
